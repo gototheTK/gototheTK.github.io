@@ -3,9 +3,13 @@ main:
   - title: DataBase
     url: /categories/database/
   - title: Network
-    url: /categories/computer-science/
+    url: /categories/network/
   - title: Algorithms
-    url: /categories/computer-science/
+    url: /categories/algorithms/
+  - title: Java
+    url: /categories/java/
+  - title: Spring
+    url: /categories/spring/
 #   - title: Github
 #     url: /categories/programming/
   # - title: "Sitemap"
@@ -15,31 +19,33 @@ main:
 
 
 database:
-  - title: Computer Science
+  - title: "데이터베이스와 데이터베이스 관리 시스템의 개념"
     children:
-      - title: "데이터베이스와 데이터베이스 관리 시스템의 개념"
-        url: /database/basic_concept
+      - title: "데이터베이스의 기본 개념"
+        url: /database/lesson01
+      - title: "데이터베이스 관리 시스템"
+        url: /database/lesson02
 
 
-docs:
-  - title: Computer Science
-    children:
-      - title: "DataBase"
-        url: /docs/database/
-      - title: "NetWork"
-        url: /docs/network/
-      - title: "Algorithms"
-        url: /docs/algorithms/
+# docs:
+#   - title: Computer Science
+#     children:
+#       - title: "DataBase"
+#         url: /database/basic_concept
+#       - title: "NetWork"
+#         url: /docs/network/
+#       - title: "Algorithms"
+#         url: /docs/algorithms/
 
-  - title: Programming
-    children:
-      - title: "Java"
-        url: /docs/configuration/
-      - title: "Spring"
-        url: /docs/navigation/
+#   - title: Programming
+#     children:
+#       - title: "Java"
+#         url: /docs/configuration/
+#       - title: "Spring"
+#         url: /docs/navigation/
 
-  - title: Extras
-    children:
-      - title: "Etc"
-        url: /docs/configuration/
+#   - title: Extras
+#     children:
+#       - title: "Etc"
+#         url: /docs/configuration/
 
