@@ -1,12 +1,45 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Computer Science"
+  - title: DataBase
+    url: /categories/database/
+  - title: Network
     url: /categories/computer-science/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: Algorithms
+    url: /categories/computer-science/
+#   - title: Github
+#     url: /categories/programming/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+database:
+  - title: Computer Science
+    children:
+      - title: "데이터베이스와 데이터베이스 관리 시스템의 개념"
+        url: /database/basic_concept
+
+
+docs:
+  - title: Computer Science
+    children:
+      - title: "DataBase"
+        url: /docs/database/
+      - title: "NetWork"
+        url: /docs/network/
+      - title: "Algorithms"
+        url: /docs/algorithms/
+
+  - title: Programming
+    children:
+      - title: "Java"
+        url: /docs/configuration/
+      - title: "Spring"
+        url: /docs/navigation/
+
+  - title: Extras
+    children:
+      - title: "Etc"
+        url: /docs/configuration/
+
