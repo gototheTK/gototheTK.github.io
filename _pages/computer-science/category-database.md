@@ -1,7 +1,7 @@
 ---
 title: "Database"
 layout: category
-permalink: /categories/database
+permalink: /categories/database/
 author_profile: false
 taxonomy: database
 classes: wide
