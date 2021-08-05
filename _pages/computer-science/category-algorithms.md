@@ -1,10 +1,10 @@
 ---
-title: "Network"
+title: "Algorithms"
 layout: category
-permalink: /categories/network/
+permalink: /categories/algorithms/
 author_profile: false
-taxonomy: network
+taxonomy: algorithms
 classes: wide
 sidebar:
-    nav: network
+    nav: algorithms
 ---
