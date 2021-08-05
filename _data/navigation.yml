@@ -1,5 +1,8 @@
 # main links
-main:
+docs:
+  - title: "Computer Science"
+    children:
+      title: "DataBase"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
