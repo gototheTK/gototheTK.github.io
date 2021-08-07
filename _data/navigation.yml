@@ -12,11 +12,10 @@ main:
     url: /categories/spring/
 #   - title: Github
 #     url: /categories/programming/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
+# - title: "Sitemap"
+#   url: /sitemap/
+# - title: "Quick-Start Guide"
+#   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 database:
   - title: "데이터베이스와 데이터베이스 관리 시스템의 개념"
@@ -25,8 +24,8 @@ database:
         url: /database/lesson01
       - title: "데이터베이스 관리 시스템"
         url: /database/lesson02
-
-
+      - title: "데이터베이스 관리 시스템"
+        url: /database/lesson03
 # docs:
 #   - title: Computer Science
 #     children:
