@@ -6,6 +6,8 @@ main:
     url: /categories/network/
   - title: Algorithms
     url: /categories/algorithms/
+  - title: Operating System
+    url: /categories/operating_system/
   - title: Java
     url: /categories/java/
   - title: Spring
@@ -24,7 +26,7 @@ database:
         url: /database/lesson01
       - title: "데이터베이스 관리 시스템"
         url: /database/lesson02
-      - title: "데이터베이스 관리 시스템"
+      - title: "데이터베이스 시스템"
         url: /database/lesson03
 # docs:
 #   - title: Computer Science
