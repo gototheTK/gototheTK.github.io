@@ -28,6 +28,16 @@ database:
         url: /database/lesson02
       - title: "데이터베이스 시스템"
         url: /database/lesson03
+
+spring:
+  - title: "스프링"
+    children:
+      - title: "스프링 개념잡기"
+        url: /spring/lesson01
+      - title: "JPA 개념잡기"
+        url: /spring/lesson02
+      - title: Spring Boot 동작원리"
+        url: /spring/lesson03
 # docs:
 #   - title: Computer Science
 #     children:
