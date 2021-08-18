@@ -2,8 +2,8 @@
 main:
   - title: DataBase
     url: /categories/database/
-  - title: Network
-    url: /categories/network/
+  - title: Web
+    url: /categories/Web/
   - title: Algorithms
     url: /categories/algorithms/
   - title: Operating System
