@@ -28,6 +28,16 @@ database:
         url: /database/lesson02
       - title: "데이터베이스 시스템"
         url: /database/lesson03
+      - title: "데이터 모델링"
+        url: /database/lesson04
+      - title: "관계 데이터 모델"
+        url: /database/lesson05
+      - title: "관계 데이터 연산"
+        url: /database/lesson06
+      - title: "데이터베이스 언어 SQL"
+        url: /database/lesson07
+      - title: "회복과 병행제어"
+        url: /database/lesson10
 
 spring:
   - title: "스프링"
